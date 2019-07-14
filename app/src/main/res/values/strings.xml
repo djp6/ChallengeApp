@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChallengeApp</string>
+    <string name="Number">Phone Number</string>
+    <string name="EmailAddress">Email</string>
+    <string name="Android">Android</string>
+
+</resources>
